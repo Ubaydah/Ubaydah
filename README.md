@@ -1,5 +1,5 @@
 ### Hi there, I'm Ubaydah👋
-🌱 I’m currently learning Cloud and DevOps Engineering 
+🌱 I’m currently learning Machine Learning, Cloud and DevOps Engineering 
 
 👯 I’m looking to collaborate on Cloud-related projects
 
